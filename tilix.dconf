@@ -1,0 +1,24 @@
+[/]
+app-title='${sessionName}'
+control-scroll-zoom=true
+enable-wide-handle=false
+prompt-on-close=false
+session-name='TILIX ${username}@${hostname} || Terminals: ${terminalCount}'
+sidebar-on-right=false
+theme-variant='dark'
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#15141B'
+badge-color='#A277FF'
+badge-color-set=true
+bold-color-set=false
+cursor-background-color='#A277FF'
+cursor-blink-mode='on'
+cursor-colors-set=true
+cursor-foreground-color='#A277FF'
+foreground-color='#EDECEE'
+highlight-colors-set=false
+palette=['#110F18', '#FF6767', '#61FFCA', '#FFCA85', '#A277FF', '#82E2FF', '#61FFCA', '#EDECEE', '#6D6D6D', '#FF6767', '#61FFCA', '#FFCA85', '#A277FF', '#82E2FF', '#61FFCA', '#EDECEE']
+terminal-title='${id}: ${title}'
+use-theme-colors=false
+visible-name='Default'
